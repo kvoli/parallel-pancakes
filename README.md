@@ -7,7 +7,7 @@ solution to diameter of a n-pancake graph using mpi. Achieves linear speedup w.r
 
 ## Results
 
-![](https://imgur.com/vIqq0RV)
+![](https://i.imgur.com/vIqq0RV.png)
 
 ## Method
 
